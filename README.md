@@ -9,13 +9,13 @@
 ---
 # 🚀 About
 
-- 👨‍💻 Full Stack Web Developer focused on building scalable, real-world applications.
-- 🤖 Actively exploring Artificial Intelligence, Multimodal Systems, and intelligent automation.
-- 🧠 Strong interest in backend architecture, APIs, and system-level thinking.
-- 🛠 Experienced with JavaScript ecosystem (React, Node.js), REST APIs, and database integration.
-- 📊 Currently strengthening Data Structures & Algorithms and problem-solving through platforms like LeetCode and HackerRank.
-- 🚀 Passionate about building systems that combine software engineering with AI-driven insights.
-- 📫 Reach me at: **arpitpandey0307@gmail.com**
+- Full Stack Web Developer focused on building scalable, real-world applications.
+- Actively exploring Artificial Intelligence, Multimodal Systems, and intelligent automation.
+- Strong interest in backend architecture, APIs, and system-level thinking.
+- Experienced with JavaScript ecosystem (React, Node.js), REST APIs, and database integration.
+- Currently strengthening Data Structures & Algorithms and problem-solving through platforms like LeetCode and Codeforces.
+- Passionate about building systems that combine software engineering with AI-driven insights.
+- Reach me at: **gyanprakash12306@gmail.com**
 
 # 🎫 Projects
 
