@@ -7,12 +7,12 @@
 # 🚀 About Me
 
 - 🎓 B.Tech student passionate about **Software Development & AI**
-- 🤖 Exploring **Artificial Intelligence, AR/VR, and Multimodal Systems**
+- 🤖 Exploring **Artificial Intelligence and Multimodal Systems**
 - 📱 Building apps using **Flutter & Android Development**
 - 🌱 Currently learning:
   - Data Structures & Algorithms
   - System Design basics
-  - AI + AR integration
+  - AI + ML integration
 - 💡 Working on innovative ideas like:
   - **AgriMentor** (Smart Farming Assistant)
   - AR-based Plant Visualization App
