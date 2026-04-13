@@ -18,7 +18,7 @@
   - AR-based Plant Visualization App
 - 🎯 Goal: Build impactful real-world intelligent systems  
 
-📫 Reach me at: **gyanprakash12306@example.com**
+📫 Reach me at: **gyanprakash12306@gmail.com**
 
 ---
 
